@@ -18,8 +18,6 @@ The screenshots are using [Fira Code](https://github.com/tonsky/FiraCode)
 
 ---
 
----
-
 ### Installation
 
 ###### Manual
