@@ -1,6 +1,6 @@
 ![hipster](https://github.com/bjarneo/hipster/blob/master/hipster.png?raw=true)
 
-This theme is made out of boredom. Suggestions and changes are appreciated. This theme might change a bit in the future. 
+This color scheme is made out of boredom. Suggestions and changes are appreciated. This theme might change a bit in the future. 
 
 ### Font
 
