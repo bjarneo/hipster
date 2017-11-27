@@ -6,6 +6,10 @@ This theme is made out of boredom. Suggestions and changes are appreciated.
 
 The screenshots are using [Fira Code](https://github.com/tonsky/FiraCode)
 
+### Theme
+
+Theme used in the screenshots is from the [Oceanic next](https://github.com/voronianski/oceanic-next-color-scheme) package
+
 ### Screenshots
 
 <h6 align='center'>Node.js</h6>
