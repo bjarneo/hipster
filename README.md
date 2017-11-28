@@ -1,10 +1,10 @@
 ![hipster](https://github.com/bjarneo/hipster/blob/master/hipster.png?raw=true)
 
-This color scheme is made out of boredom. Suggestions and changes are appreciated. This theme might change a bit in the future. 
+This color scheme is made out of boredom. Suggestions and changes are appreciated. This color scheme might change a bit in the future. 
 
 ### Font
 
-The screenshots are using [Fira Code](https://github.com/tonsky/FiraCode)
+The screenshots, and logo, are using [Fira Code](https://github.com/tonsky/FiraCode)
 
 ### Theme
 
@@ -23,6 +23,13 @@ Theme used in the screenshots is from the [Oceanic next](https://github.com/voro
 ---
 
 ### Installation
+
+###### Recommended
+
+You can install `hipster` via [Package Control](https://packagecontrol.io/).
+
+1. Press <kbd>cmd/ctrl</kbd> + <kbd>shift</kbd> + <kbd>p</kbd> to open the command palette.
+2. Type `install package` and press enter. Then search for `hipster`
 
 ###### Manual
 
