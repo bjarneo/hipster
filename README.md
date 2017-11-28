@@ -12,11 +12,11 @@ Theme used in the screenshots is from the [Oceanic next](https://github.com/voro
 
 ### Screenshots
 
-<h6 align='center'>Node.js</h6>
+<h4 align='center'>Node.js</h4>
 
 ![nodejs](https://github.com/bjarneo/hipster/blob/master/nodejs.png?raw=true)
 
-<h6 align='center'>Python</h6>
+<h4 align='center'>Python</h4>
 
 ![nodejs](https://github.com/bjarneo/hipster/blob/master/python.png?raw=true)
 
